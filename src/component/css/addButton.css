@@ -3,11 +3,12 @@
 }
 .button_div .addition{
     position: absolute;
-    top: -35px;
+    top: -40px;
     background-color: rgb(127, 255, 178);
     border: none;
     height: 80px;
     width: 80px;
     font-size: 40px;
     border-radius: 50%;
+    opacity: 1;
 }
