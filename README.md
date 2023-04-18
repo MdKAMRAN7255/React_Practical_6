@@ -29,4 +29,14 @@ And These Iamges are of different build.
 <img src="https://github.com/MdKAMRAN7255/Screenshot/blob/fbcb529533e651d4bbfb1ec907cd62f6c83ca897/development.png" />
 
 
-**You can see the command int the terminal in above pic for production,stagging,deployment.**
+**You can see the command in the terminal in above pic for production,stagging,deployment.**
+
+***Link of Different build Environement:***
+
+***1. Production:*** https://build-production.netlify.app
+
+***2. Staging:*** https://build-staging.netlify.app
+
+***3. Development:*** https://build-development.netlify.app/
+
+
