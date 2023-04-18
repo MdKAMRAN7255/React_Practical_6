@@ -23,10 +23,15 @@ function Items() {
           <div className='main_items-container bg-light mt-3'>
             <div className='list-conatainer bg-light'>
               {items_list.map((item, index) => (
-                <div key={index} className='list ps-2 pe-3 ps-md-5 pe-md-4 d-flex bg-light justify-content-between'>
-                  <span className={isChecked(item)}>{item}</span>
-                  <input value={item} type="checkbox" className='px-2 pe-3' onChange={handleCheck} />
+
+                <div key={index} 
+                  className='list ps-2 pe-3 ps-md-5 pe-md-4 d-flex bg-light justify-content-between'>
+
+                    <span className={isChecked(item)}>{item}</span>
+                    <input value={item} type="checkbox" className='px-2 pe-3' onChange={handleCheck} />
+                    
                 </div>
+
               ))}
             </div>
           </div>
