@@ -39,4 +39,4 @@ And These Iamges are of different build.
 
 ***3. Development:*** https://build-development.netlify.app/
 
-
+You can also check the console of each live link for the build message.
